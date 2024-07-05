@@ -1,0 +1,22 @@
+{
+  "name": "data-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cclchd-naveenkumar/data-fetch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cclchd-naveenkumar/data-fetch/issues"
+  },
+  "homepage": "https://github.com/cclchd-naveenkumar/data-fetch#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
